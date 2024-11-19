@@ -1,0 +1,23 @@
+.festivals {
+  padding: 20px;
+  color: white;
+}
+
+.festivals section {
+  margin-bottom: 40px;
+}
+
+.media-image,
+.media-video {
+  width: 100%;
+  max-width: 500px;
+  margin: 10px 0;
+}
+
+h2 {
+  color: #ff5733;
+}
+
+p {
+  margin: 10px 0;
+}
